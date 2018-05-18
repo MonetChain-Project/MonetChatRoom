@@ -1,2 +1,2 @@
-# SmartChatRoom
+# MonetChatRoom
 Everyone can talk each other
